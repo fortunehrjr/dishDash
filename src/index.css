@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "montserrat", sans-serif;
 }
 
 body {
@@ -11,9 +12,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0% 20%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h1 {
+  font-size: 2rem;
+  color: rgb(57, 57, 57);
+  margin: 2rem 0rem;
+}
+a {
+  color: rgb(57, 57, 57);
 }
